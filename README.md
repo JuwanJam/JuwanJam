@@ -70,3 +70,137 @@ You can click the Preview link to take a look at your changes.
 
 </ul>
 
+﻿
+## 👨‍💻 Backend Engineer, Web Developer
+
+
+😀 저는 이런 저런 사람입니다. 아이유 대신 본인 사진으로 교체해 보세요. 😃
+
+
+## 👦 Profile
+
+
+---
+
+
+👶 xx년 x월 xx일 출생
+
+
+🏫 A고등학교 졸업 (20xx.03. ~ 20xx.02.)
+
+
+👨‍🎓 B대학교 졸업 (20xx.03 ~ 20xx.02.)
+
+
+## 💡 Contact
+
+
+---
+
+
+📭 abcd@gmail.com
+
+
+📞 010-1234-5678
+
+
+📘 (Linkedin Link)
+
+
+## 🎞 Career
+
+
+---
+
+
+- Company (20xx.01.01 ~ 20xx.12.31.)
+
+- New Company... (20xx.01.01. ~ 재직 중)
+
+
+## 🏆 Prize
+
+
+---
+
+
+- 대한민국 최고의 개발자 콘테스트 입선 (2017)
+
+
+## 📝 Blog
+
+
+---
+
+
+[TISTORY](https://www.tistory.com)
+
+
+## 🗃 Github
+
+
+---
+
+
+[Build software better, together](https://github.com)
+
+
+↑ Web bookmark로 본인의 Blog / Github 링크를 삽입해 보세요! 😃
+
+
+## 📑 Certificate
+
+
+---
+
+
+- Toeic Speaking Lv.7 (20xx.xx.xx.)
+
+- 정보처리기사 (20xx.xx.xx.)
+
+
+<aside>
+
+💡 삼각형 표시는 클릭하여 확장할 수 있고, 각 프로젝트는 클릭하여 이동할 수 있습니다.
+
+
+</aside>
+
+
+## ⚒ Personal & Team Project
+
+
+---
+
+
+- xx대학교 재학 중 진행
+
+
+[나의 프로젝트 1 (Android)](https://www.notion.so/1-Android-f6a429c432a44595b90f9aaab55f543e)
+
+
+[나의 프로젝트 2 (Android)](https://www.notion.so/2-Android-35c645d9e5da4b57bf75fc7c812b974a)
+
+
+[나의 프로젝트 3 (Web)](https://www.notion.so/3-Web-2a38d7445b4e4b4aabd77a4a87cc6628)
+
+
+
+## 🛠 Project in Company
+
+
+---
+
+
+- Company
+
+
+[나의 기술 경력서 1](https://www.notion.so/1-5b58e975540e42ddac6b28df4bdc82f7)
+
+
+[나의 기술 경력서 2](https://www.notion.so/2-bb33fc286e7d48bfba7487cc58076fe5)
+
+
+[나의 기술 경력서 3](https://www.notion.so/3-ae71edcaaed1440b86d40c1374c1ee5a)
+
+﻿
