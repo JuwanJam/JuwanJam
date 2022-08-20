@@ -17,5 +17,5 @@
 
 </div>
 
-<h3>Contact</h3>
-📧qkrw8082@naver.com
+<h3>📧Email</h3>
+qkrw8082@naver.com
