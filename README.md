@@ -54,13 +54,11 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-👶 xx년 x월 xx일 출생
+👶 1997년 3월 25일 출생
 
+👨‍🎓 평택대학교 컴퓨터학과 졸업 (2016.03 ~ 2021.02)
 
-🏫 A고등학교 졸업 (20xx.03. ~ 20xx.02.)
-
-
-👨‍🎓 B대학교 졸업 (20xx.03 ~ 20xx.02.)
+🏫 대건고등학교 졸업 (2013.03. ~ 2016.02)
 
 
 ## 💡 Contact
@@ -69,10 +67,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-📭 abcd@gmail.com
+📭 qkrw8082@gmail.com
 
 
-📞 010-1234-5678
+📞 010-5777-8082
 
 
 📘 (Linkedin Link)
