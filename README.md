@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Backend Engineer, Web Developer
-
+<br>
 
 <h3>🛠Skills</h3>
 <div>
