@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @JuwanJam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-JuwanJam/JuwanJam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h2 dir="auto"><a id="user-content--tech-stacks" class="anchor" aria-hidden="true" href="#-tech-stacks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>▎<g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> Tech Stacks</h2>
 
@@ -46,12 +36,14 @@ You can click the Preview link to take a look at your changes.
 
 
 😀 저는 이런 저런 사람입니다. 아이유 대신 본인 사진으로 교체해 보세요. 😃
+<br><br><br>
+
+
+
 
 
 ## 👦 Profile
 
-
----
 
 
 👶 1997년 3월 25일 출생
@@ -59,12 +51,12 @@ You can click the Preview link to take a look at your changes.
 👨‍🎓 평택대학교 컴퓨터학과 졸업 (2016.03 ~ 2021.02)
 
 🏫 대건고등학교 졸업 (2013.03. ~ 2016.02)
+<br><br><br>
 
 
 ## 💡 Contact
 
 
----
 
 
 📭 qkrw8082@gmail.com
@@ -74,56 +66,11 @@ You can click the Preview link to take a look at your changes.
 
 
 📘 (Linkedin Link)
+<br><br><br>
 
-
-## 🎞 Career
-
-
----
-
-
-- Company (20xx.01.01 ~ 20xx.12.31.)
-
-- New Company... (20xx.01.01. ~ 재직 중)
-
-
-## 🏆 Prize
-
-
----
-
-
-- 대한민국 최고의 개발자 콘테스트 입선 (2017)
-
-
-## 📝 Blog
-
-
----
-
-
-[TISTORY](https://www.tistory.com)
-
-
-## 🗃 Github
-
-
----
-
-
-[Build software better, together](https://github.com)
-
-
-↑ Web bookmark로 본인의 Blog / Github 링크를 삽입해 보세요! 😃
 
 
 ## 📑 Certificate
-
-
----
-
-
-- Toeic Speaking Lv.7 (20xx.xx.xx.)
 
 - 정보처리기사 (20xx.xx.xx.)
 
@@ -134,42 +81,24 @@ You can click the Preview link to take a look at your changes.
 
 
 </aside>
+<br><br><br>
+
 
 
 ## ⚒ Personal & Team Project
 
 
----
 
-
-- xx대학교 재학 중 진행
+- 평택대학교 재학 중 진행
 
 
 [나의 프로젝트 1 (Android)](https://www.notion.so/1-Android-f6a429c432a44595b90f9aaab55f543e)
 
 
-[나의 프로젝트 2 (Android)](https://www.notion.so/2-Android-35c645d9e5da4b57bf75fc7c812b974a)
+- 인천일보아카데미
 
 
 [나의 프로젝트 3 (Web)](https://www.notion.so/3-Web-2a38d7445b4e4b4aabd77a4a87cc6628)
 
 
 
-## 🛠 Project in Company
-
-
----
-
-
-- Company
-
-
-[나의 기술 경력서 1](https://www.notion.so/1-5b58e975540e42ddac6b28df4bdc82f7)
-
-
-[나의 기술 경력서 2](https://www.notion.so/2-bb33fc286e7d48bfba7487cc58076fe5)
-
-
-[나의 기술 경력서 3](https://www.notion.so/3-ae71edcaaed1440b86d40c1374c1ee5a)
-
-﻿
